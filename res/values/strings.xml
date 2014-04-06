@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">MyNotes</string>
+	<string name="action_settings">Settings</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="sorting">Sort alphabetically.</string>
+	<string name="word_count">Total words: </string>
+	<string name="note">MyNote</string>
+	<string name="date_created">Date created.</string>
+	<string name="edit_note_title">Note title:</string>
+	<string name="note_title_hint">The title of the note.</string>
+	<string name="content">Content:</string>
+	<string name="content_hint">Content.</string>
+	<string name="project_path">sd_card/MyNotes</string>
+</resources>
